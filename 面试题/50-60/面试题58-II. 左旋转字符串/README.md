@@ -29,4 +29,4 @@
 
 ## 解答
 
-./Solution.java
+[/Solution.java](./Solution.java)
