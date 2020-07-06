@@ -2,7 +2,6 @@ class Solution {
     public List<String> generateParenthesis(int n) {
 
 
-
         List<String> res = new ArrayList<>();
         // 特判
         if (n == 0) {
@@ -34,10 +33,10 @@ class Solution {
         }
 
         if (left > 0) {
-            dfs(curStr + "(",left-1,right,res);
+            dfs(curStr + "(", left - 1, right, res);
         }
         if (right > 0) {
-            dfs(curStr + ")",left,right-1,res);
+            dfs(curStr + ")", left, right - 1, res);
         }
     }
 }

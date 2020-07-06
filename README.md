@@ -46,3 +46,29 @@
 
 
 2020.6.30日更新
+
+
+<br>
+<b>7.</b>  <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/1300-1400/1309. 解码字母到整数映射/README.md">[1309. 解码字母到整数映射]<a> <b>按规则映射，例如1 --> a , 10# --> j</b> 需要用到ascll编码。
+<br>
+<br>
+<b>8.</b>  <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/600-700/657. 机器人能否返回原点/README.md">[657. 机器人能否返回原点]</a> <b>给定移动步数，判断机器人是否可以回到原点</b> 查看上下、左右移动步数是否一致即可。
+<br>
+<br>
+<b>9.</b> <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/1300-1400/1370. 上升下降字符串/README.md">[1370. 上升下降字符串 ]</a> <b>上升下降字符，直到无法进行</b> 记录字符出现次数，有小到大、由大到小依次遍历。
+<br>
+<br>
+<b>10.</b> <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/1300-1400/1374. 生成每种字符都是奇数个的字符串/README.md">[1374. 生成每种字符都是奇数个的字符串]</a> <b>给定数字n输出奇数个字符</b> 判断n的个数来决定返回字符的个数
+<br>
+<br>
+<b>11.</b> <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/500-600/557. 反转字符串中的单词 III/README.md">[557. 反转字符串中的单词 III]</a> <b>反转字符</b> 根据空格分隔，最后一个不需要添加" "
+<br>
+<br>
+<b>12.</b> <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/300-400/344. 反转字符串/README.md">[344. 反转字符串]</a> <b>反转字符</b> 
+<br>
+<br>
+<b>13.</b> <a href="https://github.com/liyichencc/leetcode/tree/master/LeetCode题/800-900/890. 查找和替换模式/README.md">[890. 查找和替换模式]<a> <b>要求按照给定的pattern匹配字符</b> 使用容器记录映射关系即可，注意双向key判断是否已经映射,value是否已经映射。
+<br>
+<br>
+
+2020.7.6日更新
